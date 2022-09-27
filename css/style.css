@@ -39,7 +39,6 @@ body {
 }
 
 .menu {
-  position: relative;
   transform: skewY(-15deg);
 }
 
